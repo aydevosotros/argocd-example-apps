@@ -11,7 +11,7 @@ image:
 
 service:
   type: ClusterIP
-  port: 84
+  port: 85
 
 ingress:
   enabled: false
